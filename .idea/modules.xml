@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/multidatasource.iml" filepath="$PROJECT_DIR$/multidatasource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/multidatasource_main.iml" filepath="$PROJECT_DIR$/.idea/modules/multidatasource_main.iml" group="multidatasource" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/multidatasource_test.iml" filepath="$PROJECT_DIR$/.idea/modules/multidatasource_test.iml" group="multidatasource" />
+    </modules>
+  </component>
+</project>
